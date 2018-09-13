@@ -1,6 +1,6 @@
 {
   "name": "raf-after",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Invoke the callback after the next repaint, while the requestAnimationFrame invokes the callback before the next repaint",
   "main": "index.js",
   "scripts": {
