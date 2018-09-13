@@ -1,6 +1,6 @@
 # raf-after [![Build Status](https://travis-ci.org/goldenyz/raf-after.svg?branch=master)](https://travis-ci.org/goldenyz/raf-after) [![npm](https://img.shields.io/npm/v/raf-after.svg?style=flat-square)](https://www.npmjs.com/package/raf-after) [![npm downloads](https://img.shields.io/npm/dm/raf-after.svg)](https://www.npmjs.com/package/raf-after)
 
-invoke the callback after the next repaint, while the requestAnimationFrame calls the callback before the next repaint
+invoke the callback after the next repaint, while the requestAnimationFrame invokes the callback before the next repaint
 
 ### Usage
 1. Install the package `npm install raf-after -S`
